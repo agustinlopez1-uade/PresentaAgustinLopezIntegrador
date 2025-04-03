@@ -1,0 +1,18 @@
+nav{
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+nav a{
+    display: inline-block;
+    font-weight: bold;
+    color: white;
+    margin: 10px;
+    border: 5px solid transparent;
+    border-radius: 25px;
+}
+
+nav a:hover{
+    background-color: black;
+}
